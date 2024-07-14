@@ -9,7 +9,7 @@
 
 ##
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caik0&layout=compact&theme=cobalt"/>  <img height="90em" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Caik0&repo=Dspot-Project&theme=cobalt"/>  <img align="bottom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caik0&layout=compact&theme=cobalt"/>  <img height="90em" align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Caik0&repo=Dspot-Project&theme=cobalt"/>
           
 </div>
 
