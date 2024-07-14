@@ -14,6 +14,6 @@
           
 </div>
 
-##
+![snake gif](https://github.com/Caik0/Caik0/blob/output/github-contribution-grid-snake.gif)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
