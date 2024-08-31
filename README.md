@@ -6,6 +6,7 @@
       <li> 🖥️ - Currently working on an academic project called <a href="https://github.com/Caik0/Dspot-Project">Dspot</a>.</li>
       <li> ✏️ - Designer in free time.</li>
       <li> 😁 - He/Him.</li>
+      <li> 🇧🇷 - Port/Eng.</li>
   </div>
 
 ##
