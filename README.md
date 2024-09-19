@@ -7,6 +7,7 @@
       <li> ✏️ - Designer in free time.</li>
       <li> 😁 - He/Him.</li>
       <li> 🇧🇷 - Port/Eng.</li>
+    <br>
     <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
