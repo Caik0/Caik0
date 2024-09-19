@@ -1,7 +1,7 @@
 ## Hey there traveller! I'm Caik Lima! 🙃
 
   <div>
-      <li> ⚛️ - Studying React and Node.js. <img  height="300em" align="right" alt="Cako" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"/></li>
+      <li> ⚛️ - Studying React and Node.js. <img  height="250em" align="right" alt="Cako" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"/></li>
       <li> 📚 - Learning PHP and API developing every day at school. </li>
       <li> 🖥️ - Currently working on an academic project called <a href="https://github.com/Caik0/Dspot-Project">Dspot</a>.</li>
       <li> ✏️ - Designer in free time.</li>
