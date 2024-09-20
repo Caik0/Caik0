@@ -1,38 +1,61 @@
-## Hey there traveller! I'm Caik Lima! 🙃
+<h2 align="left">Hey there traveller! I'm Caik Lima! 🙃</h2>
 
-  <div>
-      <li> ⚛️ - Studying React and Node.js. <img  height="250em" align="right" alt="Cako" src="https://i.pinimg.com/originals/ae/1a/32/ae1a3228917786b1c62c8f4ee9a827fe.gif"/></li>
-      <li> 📚 - Learning PHP and API developing every day at school. </li>
-      <li> 🖥️ - Currently working on an academic project called <a href="https://github.com/Caik0/Dspot-Project">Dspot</a>.</li>
-      <li> ✏️ - Designer in free time.</li>
-      <li> 😁 - He/Him.</li>
-      <li> 🇧🇷 - Port/Eng.</li>
-    <br>
-    <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" height="30" alt="js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://github.com/laravel/art/blob/master/laravel-logo.svg" height="30" alt="Laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+###
+
+<br clear="both">
+
 <div align="center">
-  </div>
-
-##
-<div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caik0&layout=compact&theme=cobalt"/>  <img height="140em" align="top" href="https://github.com/Caik0/Dspot-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=Caik0&repo=Dspot-Project&theme=cobalt"/>
-          
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caik0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Caik0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-##
+###
 
+<div align="left">
+  <a href="https://criarmeulink.com.br/u/1726795296" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/caik-lima-giordane-626977271" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=cakoooo&logo=discord&label=Discord&color=grey&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.twitch.tv/cako_de_vidro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+</div>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<img align="right" height="260" src="https://64.media.tumblr.com/2e4d273d5f241a77eae1996a83a5922f/00d2db11dc3fc8e5-8e/s540x810/768644773d5d9b76f04b635885cc9273e4b5f31e.gifv"  />
+
+###
+
+<p align="left">⚛️ - Studying React and Node.js.Cako<br><br>📚 - Learning PHP and API developing every day at school.<br><br>🖥️ - Currently working on an academic project called Dspot.<br><br>✏️ - Designer in free time.<br><br>😁 - He/Him.<br><br>🇧🇷 - Port/Eng.</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Caik0/Caik0/output/snake.svg" alt="Snake animation" />
+
+###
