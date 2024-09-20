@@ -11,22 +11,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://criarmeulink.com.br/u/1726795296" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/caik-lima-giordane-626977271" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=cakoooo&logo=discord&label=Discord&color=grey&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.twitch.tv/cako_de_vidro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -53,9 +38,24 @@
 <p align="left">⚛️ - Studying React and Node.js.Cako<br><br>📚 - Learning PHP and API developing every day at school.<br><br>🖥️ - Currently working on an academic project called Dspot.<br><br>✏️ - Designer in free time.<br><br>😁 - He/Him.<br><br>🇧🇷 - Port/Eng.</p>
 
 ###
+<div align="center">
+  <a href="https://criarmeulink.com.br/u/1726795296" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/caik-lima-giordane-626977271" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=cakoooo&logo=discord&label=Discord&color=grey&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.twitch.tv/cako_de_vidro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+</div>
+
+###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Caik0/Caik0/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
