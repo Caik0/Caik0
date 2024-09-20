@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">⚛️ - Studying React and Node.js.Cako<br><br>📚 - Learning PHP and API developing every day at school.<br><br>🖥️ - Currently working on an academic project called Dspot.<br><br>✏️ - Designer in free time.<br><br>😁 - He/Him.<br><br>🇧🇷 - Port/Eng.</p>
+<p align="left">⚛️ - Studying React and Node.js.<br><br>📚 - Learning PHP and API developing every day at school.<br><br>🖥️ - Currently working on an academic project called Dspot.<br><br>✏️ - Designer in free time.<br><br>😁 - He/Him.<br><br>🇧🇷 - Port/Eng.</p>
 
 ###
 <div align="center">
