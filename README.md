@@ -12,6 +12,10 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -50,6 +54,12 @@
   <img src="https://img.shields.io/static/v1?message=cakoooo&logo=discord&label=Discord&color=grey&logoColor=white&labelColor=7289DA&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.twitch.tv/cako_de_vidro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+    <a href="https://www.instagram.com/cako.jpg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/caik_cako" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X%20%20%20@caik_cako&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
