@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">⚛️ - Studying Java and plugin development for minecraft.<br><br>📚 - Learning PHP and API development every day at school.<br><br>✏️ - Designer in free time.<br><br>😁 - He/Him.<br><br>🇧🇷 - Port/Eng.</p>
+<p align="left">⚛️ - Studying Vue.js and web development.<br><br>📚 - Computer science student.<br><br>🎮 - Gamer in free time.<br><br>😁 - He/Him.<br><br>🇧🇷 - Port/Eng.</p>
 
 ###
 <div align="center">
