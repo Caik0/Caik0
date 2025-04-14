@@ -27,9 +27,7 @@
   <img src="https://skillicons.dev/icons?i=vue,react,tailwind,js,ts,html,css,php,laravel,mysql,dotnet,cs,java" />
 </div>
 
----
-
-### 📊 GitHub Stats
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caik0&layout=compact&theme=dracula&langs_count=5&card_width=320" height="150" />
@@ -38,7 +36,7 @@
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Links
 
 <div align="center">
   <a href="mailto:caik0dev@gmail.com" target="_blank">
