@@ -30,7 +30,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caik0&layout=compact&theme=dracula&langs_count=5&card_width=320" height="150" />
   <img src="https://streak-stats.demolab.com?user=Caik0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
