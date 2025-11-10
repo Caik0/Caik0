@@ -16,7 +16,6 @@
 - ⚛️ Currently learning **Vue.js** and advancing in full-stack development  
 - 📚 Studying **Computer Science**  
 - 🎮 Gamer in my spare time (catch me on Twitch 👾)  
-- 😄 Pronouns: **He/Him**  
 - 🌎 Languages: **Portuguese / English**
 
 ---
