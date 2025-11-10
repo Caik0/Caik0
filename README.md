@@ -54,7 +54,3 @@
     <img src="https://img.shields.io/static/v1?message=X%20%20%20@caik_cako&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo"  />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Caik0/Caik0/output/snake.svg" alt="Snake animation" />
-</div>
