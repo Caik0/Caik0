@@ -1,8 +1,8 @@
 <h2 align="center">Hey there, traveller! 👋 I'm Caik Lima 🙃</h2>
 
 <p align="center">
-  A passionate web developer and plugin magician with a love for solving bugs and crafting smooth experiences.<br>
-  I specialize in web development and server management. 🚀
+  A passionate web developer with a love for solving bugs and crafting smooth experiences.<br>
+  I specialize in web and software development. 🚀
 </p>
 
 <div align="center">
