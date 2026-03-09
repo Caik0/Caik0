@@ -43,14 +43,10 @@
   <a href="https://www.linkedin.com/in/caik-lima-giordane-626977271" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=cakoooo&logo=discord&label=Discord&color=7289DA&logoColor=white&style=for-the-badge" />
   <a href="https://www.twitch.tv/cako_de_vidro" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/cako.jpg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://x.com/caik_cako" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X%20%20%20@caik_cako&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo"  />
   </a>
 </div>
