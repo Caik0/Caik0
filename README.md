@@ -13,10 +13,10 @@
 
 ### 🧠 About Me
 
-- ⚛️ Currently learning **Vue.js** and advancing in full-stack development  
-- 📚 Studying **Computer Science**  
+- ⚛️ Currently learning **Three.js** and advancing in 3d modeling 
+- 📚 Studying **Computer Science** 4/8 
 - 🎮 Gamer in my spare time (catch me on Twitch 👾)  
-- 🌎 Languages: **Portuguese / English**
+- 🌎 Languages: **Portuguese / English / Spanish**
 
 ---
 
