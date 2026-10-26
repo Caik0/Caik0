@@ -1,34 +1,60 @@
-<h2 align="center">Hey there, traveller! 👋 I'm Caik Lima 🙃</h2>
+<h1 align="center">Caik Lima</h1>
 
 <p align="center">
-  A passionate developer with a love for solving bugs and crafting smooth experiences.<br>
-  I specialize in web and software development. 🚀
+  Software Engineer · C# / .NET · TypeScript · Web 3D
 </p>
 
+---
+
+### About Me
+
+Software engineer focused on building reliable back-end APIs and the web interfaces that sit on top of them. I work from the database to the browser, turning requirements into maintainable, well-structured software.
+
+- Back-end development with **C# / .NET**: REST APIs, JWT authentication, Entity Framework Core and LINQ
+- Front-end development with **React** and **TypeScript**, plus an ongoing focus on **Three.js** and 3D on the web
+- Comfortable with the full application stack: relational databases, containers, reverse proxy and CI/CD tooling
+- Currently at **Freire Project 3D**, working on a web-based 3D builder
+- Bachelor's degree in **Computer Science** in progress (4/8)
+- Languages: Portuguese (native), English, Spanish
+
+---
+
+### Tech Stack
+
 <div align="center">
-  <img height="120" src="https://64.media.tumblr.com/2e4d273d5f241a77eae1996a83a5922f/00d2db11dc3fc8e5-8e/s540x810/768644773d5d9b76f04b635885cc9273e4b5f31e.gifv"  />
+
+**Back-end**<br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,python,nodejs" />
+
+**Front-end & 3D**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,vite,tailwind,html,css,threejs" />
+
+**DevOps & Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,nginx,azure,git,github" />
+
+**Databases**<br>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
 </div>
 
 ---
 
-### 🧠 About Me
+### Expertise
 
-- ⚛️ Currently learning **Three.js** and advancing in 3d modeling 
-- 📚 Studying **Computer Science** 4/8 
-- 🎮 Gamer in my spare time (catch me on Twitch 👾)  
-- 🌎 Languages: **Portuguese / English / Spanish**
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,js,ts,html,css,php,laravel,mysql,dotnet,python" />
-</div>
+```
+🚀  Backend APIs     →  RESTful services in C#/.NET, JWT authentication, Swagger/OpenAPI
+🗄️  Databases        →  SQL Server, PostgreSQL and MySQL, schema design, LINQ and query refactoring, Redis
+🌐  Web Front-end    →  React, TypeScript, Vite, component-driven interfaces
+🧊  3D on the Web    →  Three.js, 3D modeling (actively learning)
+☁️  DevOps           →  Docker, docker compose, nginx, Azure DevOps, Git workflows
+```
 
 ---
 
-### 🌐 Links
+### Contact
 
 <div align="center">
   <a href="mailto:caik0dev@gmail.com" target="_blank">
